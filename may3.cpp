@@ -2,20 +2,20 @@
 using namespace std;
 int main()
 {
-//    int a,b,c;
-//    cout<<"enter 3 digit no.:\n";
-//    cin>>a>>b>>c;
-//    if(a>=b && a>=c)
-//    {
-//     cout<<a<<"is large no.";
-//    }
-//    else if (b>=a && b>=c)
-//    {
-//     cout<<b<<"is large no.";
-//    }
-//    else{
-//     cout<<c<< "is large no .";
-//    }
+   int a,b,c;
+   cout<<"enter 3 digit no.:\n";
+   cin>>a>>b>>c;
+   if(a>=b && a>=c)
+   {
+    cout<<a<<"is large no.";
+   }
+   else if (b>=a && b>=c)
+   {
+    cout<<b<<"is large no.";
+   }
+   else{
+    cout<<c<< "is large no .";
+   }
 
 
 
@@ -41,17 +41,17 @@ int main()
     // }
 
 
-   char c;
-   cout<<"Enter your gender either m,f,o\n";
-   cin>>c;
-   if(c=='m')
-   {
-    cout<<" u r male";
-   }
-   else if ()
-   {
-    /* code */
-   }
+//    char c;
+//    cout<<"Enter your gender either m,f,o\n";
+//    cin>>c;
+//    if(c=='m')
+//    {
+//     cout<<" u r male";
+//    }
+//    else if ()
+//    {
+//     /* code */
+//    }
     
     
 }

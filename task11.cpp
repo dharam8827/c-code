@@ -28,7 +28,6 @@ int main()
     case 7:
     cout<<"satrday";
     break;
-    default:
-    cout<<"ianvailid week";
+  
     }
 }

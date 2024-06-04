@@ -2,13 +2,13 @@
 using namespace std;
 int main()
 {
-    int n,a;
+    int n,a,s=0;
     cout<<"Enter any number : "<<endl;
     cin>>n;
-    a=n-1;
-    for(a; a>=0; a--)
+    while(n!=0 )
     {
-        n=n+a;
+        s=s+(n%10);
+        n=n/10;
     }
-    cout<<n;
+    cout<<s;
 }

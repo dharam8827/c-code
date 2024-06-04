@@ -19,7 +19,7 @@ int main()
     cin>>a>>b;
     a=a+b;
     b=a-b;
-    a=a-b;
+    a=b-a;
     cout<<"a="<<a<<"\n";
     cout<<"b="<<b;
 }

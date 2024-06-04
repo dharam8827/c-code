@@ -7,8 +7,9 @@ int main()
     cin>>n;
   while (n!=0)
   {
-    c++;
+   
     n=n/10;
+     c++;
   }
   cout<<"total digit :"<<c;
   

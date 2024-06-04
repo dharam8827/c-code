@@ -9,7 +9,7 @@ int main()
     {
         cout<<"It is alphabet :"<<ch;
     }
-    else if(ch>=0 && ch<=9 )
+    else if(ch>='0' && ch<='9' )
     {
         cout<<"It is digit :"<<ch;
     }

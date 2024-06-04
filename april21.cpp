@@ -4,11 +4,11 @@ int main(){
 //   int a;
 //   a=7 ^ 28; //xor
 //   cout<<a;
-// int a;
-// a=12;
-//  a=23<<2; //left shift
+int a;
+a;
+//  a=23<<4; //left shift
 // a=23>>2; //right shift
-// cout<<a;
+cout<<a;
 // assigment
 // int a;
 // a=9;

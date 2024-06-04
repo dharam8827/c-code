@@ -9,7 +9,7 @@ int main()
  {
     cout<<"u can vote";
  }
- else{
+ else if(age<18){
     cout<<"u can not vote";
  }
 
